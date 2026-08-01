@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Moves the caption left or right with the stereo field, so the text sits where the voice is.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
